@@ -6,3 +6,4 @@ For the input parameters:
 For example:
 -i cycle100.rnd --seed 0 -rep 0  -alb 1 -pls 0.2 -pth 3 -prb 0.5 -prc 0.1 -tnf 0.05 -dep 5
 
+There is an example script written in python to generate the execution list for the readers: script_list.py
